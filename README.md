@@ -1,52 +1,151 @@
+<div align="center">
 
-<img width="100%" alt="Github Banner" src="./banner.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/Abhishek-Adhikari-1/Abhishek-Adhikari-1/refs/heads/email-signature/signature/assets/banner.png" alt="Abhishek Adhikari Banner" />
 
-<h1>Hi 👋, I'm Abhishek Adhikari.</h1>
-<p>A passionate student developer from Softwarica College.</p>
+<br/>
 
-<h2>🚀 Languages and Tools I Use</h2>
+**Software Developer · CS Student · Builder**
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
+<p>
+I enjoy building modern web applications, backend systems, and experimenting with new technologies.
+</p>
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/https://www.facebook.com/profile.php?id=100063712182245" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/unknown_account835/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p>
+  <a href="https://github.com/Abhishek-Adhikari-1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-adhikari-802852280">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_abhishek_adhikari_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/abhi.seka.651504">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-### My all Commits
+</div>
+
+---
+
+### About Me
+
+- 💻 Interested in **software development & backend engineering**
+- 🎓 Studying at **Softwarica College**
+- 🌱 Currently improving my **development and problem-solving skills**
+- 🐧 Linux enthusiast
+- ⚡ I enjoy turning ideas into real projects
+
+---
+
+### Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?theme=light&i=c,js,ts,python,java" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,html,css,tailwind,redux,vite" />
+</p>
+
+#### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?theme=light&i=nodejs,express,bun,elysia,spring,appwrite" />
+</p>
+
+#### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?theme=light&i=mysql,mongodb,postgres,redis,prisma" />
+  <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" width="48" height="48" />
+</p>
+
+#### Deployment & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?theme=light&i=cloudflare,vercel,docker,aws" />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+  alt="Oracle"
+  width="48"
+  height="48"
+  />
+  <img src="https://skillicons.dev/icons?theme=light&i=figma,postman,arch"/>
+</p>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek-Adhikari-1/Abhishek-Adhikari-1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek-Adhikari-1/Abhishek-Adhikari-1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhishek-Adhikari-1/Abhishek-Adhikari-1/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Abhishek-Adhikari-1/Abhishek-Adhikari-1/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Abhishek-Adhikari-1/Abhishek-Adhikari-1/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Abhishek-Adhikari-1/Abhishek-Adhikari-1/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Adhikari-1&show_icons=true&locale=en" alt="Abhishek-Adhikari-1" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Adhikari-1&" alt="Abhishek-Adhikari-1" /></p>
+---
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Adhikari-1&show_icons=true&locale=en&layout=compact" alt="Abhishek-Adhikari-1" /></p>
+### GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishek-Adhikari-1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=default&hide_border=true"
+    alt="Abhishek Adhikari GitHub Streak"
+  />
+</picture>
 
-###
+<br/>
+
+<sub>Building, learning, and improving one commit at a time.</sub>
+
+</div>
+
+### Random Dev Quote
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+  />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    alt="Random Dev Quote"
+  />
+</picture>
+
+</div>
