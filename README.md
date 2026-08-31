@@ -129,6 +129,8 @@ I enjoy building modern web applications, backend systems, and experimenting wit
 
 </div>
 
+---
+
 ### Random Dev Quote
 
 <div align="center">
