@@ -155,14 +155,14 @@ I particularly enjoy working on systems where **backend architecture, data, perf
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=dark&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=dark&hide_border=true&mode=daily"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=default&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=default&hide_border=true&mode=daily"
     />
     <img
-      src="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=default&hide_border=true"
+      src="https://streak-stats.demolab.com?user=Abhishek-Adhikari-1&theme=default&hide_border=true&mode=daily"
       alt="Abhishek Adhikari GitHub Streak"
     />
   </picture>
